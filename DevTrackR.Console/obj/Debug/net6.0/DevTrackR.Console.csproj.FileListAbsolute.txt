@@ -1,0 +1,15 @@
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.exe
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.deps.json
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.runtimeconfig.json
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.dll
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.pdb
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.csproj.AssemblyReference.cache
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.AssemblyInfoInputs.cache
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.AssemblyInfo.cs
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.dll
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\refint\DevTrackR.Console.dll
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.pdb
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.genruntimeconfig.cache
+D:\devs\Csharp\JornadaDiretoAoPonto_LuisDev\DevTrackR.Console\obj\Debug\net6.0\ref\DevTrackR.Console.dll
